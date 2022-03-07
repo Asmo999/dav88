@@ -1,6 +1,73 @@
 .container1 {
 	width: 1180px;
+	margin: 0 auto;
+	margin-bottom: 20px;
 }
 .ul1 {
 	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+
+}
+.ul1 > li {
+	/*margin-right: 33px;*/
+	font-family: Raleway;
+	font-size: 15.74px;
+	color: #303134	;
+}
+.a1 {
+	margin-top: 5px;
+}
+.a11 {
+	margin-right: 520px;
+}
+.s1 {
+	background-image: url("C:/Users/user/Desktop/dav8/dav88/images/2.png");
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	height: 650px;
+  	width: 100%;
+  	display: flex;
+  	justify-content: center;
+  	align-items: center;
+  	flex-direction: column;
+  	margin-bottom: 70px;
+}
+}
+.fs1{
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	height: 650px;
+  	width: 100%;
+  	display: flex;
+}
+.s1 > h1 {
+	color: white;
+	font-size: 78px;
+	margin-bottom: 35px;
+}
+.s1 > h3 {
+	color: white;
+	font-size: 18px;
+}
+.li1{
+	font-family: Raleway;
+	font-size: 16px;
+	color: #8D8D8D;
+}
+.li2{
+	color: #1A1A1B;
+	font-size: 26px;
+	font-family: Raleway;
+}
+.li3 {
+	font-family: Raleway;
+	font-size: 16px;
+	color: #8D8D8D;
+	width: 240.99px;
+	height: 145.19px;
+
 }
