@@ -76,11 +76,12 @@
 	flex-wrap: wrap;
 	/*display: inline-block;*/
 	vertical-align: top;
+	justify-content: space-between;
 }
 .ul11{
 	width: 268.97px;
-	height: 682.13px;
+	height: 328px;
 	display: inline-block;
 	vertical-align: middle;
-	margin-right: 59px;
+	/*margin-right: 59px;*/
 }
