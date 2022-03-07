@@ -71,3 +71,16 @@
 	height: 145.19px;
 
 }
+.flex1 {
+	display: flex;
+	flex-wrap: wrap;
+	/*display: inline-block;*/
+	vertical-align: top;
+}
+.ul11{
+	width: 268.97px;
+	height: 682.13px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 59px;
+}
